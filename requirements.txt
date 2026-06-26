@@ -1,0 +1,16 @@
+openai
+openai-agents
+fastapi
+uvicorn[standard]
+python-dotenv
+pydantic
+httpx
+weaviate-client
+chromadb
+langchain
+tiktoken
+numpy
+pandas
+requests
+psycopg2-binary
+
